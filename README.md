@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Vincent Ajudua
+- 👀 I’m interested in Software Development
+- 🌱 I’m good with REACT.Js, CSS and JavaScript
